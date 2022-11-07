@@ -1,5 +1,5 @@
 # Fortuna-Cools-Life-Cycle-Assessment
-Stanford team and Fortuna team worked together and conducted a formal life cycle assessment of Fortuna coolers.
+Stanford team and Fortuna team worked together and conducted a formal life cycle assessment of Fortuna coolers ([Poster](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment/blob/main/Poster.pdf), [Report](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment/blob/main/Fortuna%20Cools%20Life%20Cycle%20Assessment%20Report.pdf), [LCA model](https://github.com/J-i-n-p-u/Fortuna-Cools-Life-Cycle-Assessment/raw/main/LCA%20Model.xlsx))
 
 <img src='lca.png' />
 
